@@ -1,0 +1,42 @@
+*{
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
+}
+
+.bg-1{
+    background-color: #c9316b;
+}
+.bg-5{
+    background-color: #538c45;
+}
+.bg-8{
+    background-color:#478755;
+}
+.bg-2{
+    background-color: #ca319d;
+}
+.bg-grid{
+    background-color: #ed6e62;
+}
+.bg-4{
+    background-color: #efc437 ;
+}
+.bg-6{
+    background-color: #267c87;
+}
+.bg-10{
+    background-color: #31c98f;
+}
+.bg-12{
+    background-color:#de212f;
+}
+.bg-11{
+    background-color: #544079;
+}
+.bg-9{
+    background-color: #30c9c2;
+}
+.bg-7{
+    background-color: #799928;
+}
